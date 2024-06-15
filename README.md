@@ -1,0 +1,2 @@
+# tauri_liangongbao2024
+用tauri构建一个桌面应用初步尝试，主要功能是链工宝自动答题
